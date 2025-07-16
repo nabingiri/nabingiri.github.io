@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory. 
 
-I earned my PhD in Computer Science with a minor in Statistics from the University of Missouri, advised by Dr. Jianlin Cheng in the Bioinformatics and Machine Learning Lab. My doctoral research focused on developing deep learning methods for protein structure modeling from cryo-electron microscopy (cryo-EM) data and protein-ligand interaction prediction. I received the Outstanding PhD Student Award for my academic and research accomplishments.
+I received my PhD in Computer Science with a minor in Statistics from the University of Missouri, advised by Dr. Jianlin Cheng in the Bioinformatics and Machine Learning Lab. My doctoral research focused on developing deep learning methods for protein structure modeling from cryo-electron microscopy (cryo-EM) data and protein-ligand interaction prediction. I received the Outstanding PhD Student Award for my academic and research accomplishments. My dissertation defense slide deck is available here : <a href="https://drive.google.com/file/d/1ZilQju0aU9JL5aOxOwIU5j8RMw2OMa7y/view?usp=sharing" target="_blank">**Slide Deck**</a>
 
 During my PhD, I completed internships at BIOVIA and Amazon. At BIOVIA, I developed an innovative AlphaFold-based deep learning workflow for conformational sampling, featured in a <a href="https://blog.3ds.com/brands/biovia/journey-into-nabin-giris-biovia-internship-conformational-sampling-with-alphafold/" target="_blank">BIOVIA blog post</a>. At Amazon, I fine-tuned multimodal models and developed deep learning models for relevance prediction.
 
