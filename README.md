@@ -58,11 +58,6 @@ This website is configured for GitHub Pages deployment:
    - Choose "main" branch and "/ (root)" folder
    - Save settings
 
-3. **Custom Domain**:
-   - The CNAME file configures the site for `nabingiri.io`
-   - Ensure DNS is properly configured to point to GitHub Pages
-   - GitHub will automatically handle SSL certificates
-
 ## Based on:
 
 - **HTML5**: Semantic markup for accessibility and SEO
