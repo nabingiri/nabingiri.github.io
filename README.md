@@ -74,7 +74,7 @@ This website is configured for GitHub Pages deployment:
 ## Contact
 
 For questions about this website or collaboration opportunities, please contact:
-- **Website**: [nabingiri.io](https://nabingiri.io)
+- **Website**: [nabingiri.github.io](https://nabingiri.github.io)
 
 ---
 
